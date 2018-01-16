@@ -1,0 +1,12 @@
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\bin\Debug\netcoreapp2.0\BashImExample.deps.json
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\bin\Debug\netcoreapp2.0\BashImExample.runtimeconfig.json
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\bin\Debug\netcoreapp2.0\BashImExample.runtimeconfig.dev.json
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\bin\Debug\netcoreapp2.0\BashImExample.dll
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\bin\Debug\netcoreapp2.0\BashImExample.pdb
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\bin\Debug\netcoreapp2.0\BashIm.dll
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\bin\Debug\netcoreapp2.0\BashIm.pdb
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\obj\Debug\netcoreapp2.0\BashImExample.csproj.CoreCompileInputs.cache
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\obj\Debug\netcoreapp2.0\BashImExample.AssemblyInfoInputs.cache
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\obj\Debug\netcoreapp2.0\BashImExample.AssemblyInfo.cs
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\obj\Debug\netcoreapp2.0\BashImExample.dll
+C:\Users\Kruzya\RiderProjects\BashIm\BashImExample\obj\Debug\netcoreapp2.0\BashImExample.pdb

@@ -1,0 +1,10 @@
+# Binaries
+BashIm/bin
+BashIm/obj
+BashImExample/bin
+BashImExample/obj
+BashImExample2/bin
+BashImExample2/obj
+
+# JetBrains Rider directory
+.idea
